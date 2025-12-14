@@ -23,7 +23,6 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [RunWhen](https://www.runwhen.com/)
 
 ### SRE Agents
-- [Sherlocks.ai](https://www.sherlocks.ai/)
 - [Agent SRE](https://agentsre.ai/)
 - [Cleric](https://cleric.io/)
 - [k8s-GPT](https://github.com/k8sgpt-ai/k8sgpt) (Open Source)
@@ -31,4 +30,5 @@ A curated list of AI-powered DevOps &amp; SRE (Site Reliability Engineering) age
 - [Parity](https://www.tryparity.com/)
 - [SRE.ai](https://www.sre.ai/)
 - [Resolve AI](https://resolve.ai)
+- [Sherlocks.ai](https://www.sherlocks.ai/) 
 
